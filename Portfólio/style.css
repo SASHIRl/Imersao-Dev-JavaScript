@@ -6,7 +6,7 @@ body {
 }
 
 .container {
-    background: #ECF4FF;
+    background: #ffe9e9;
     color: #1C1C1C;
     margin: 64px;
     border-radius: 20px;
@@ -44,13 +44,49 @@ body {
     margin: 30px;
     color: wheat;
     border-radius: 20px;
+    padding: 32px;
     display: flex;
     box-shadow: 6px 6px 6px #141212ba;
     flex-direction: column;
+
 }
 
-.projetos ul{
-    display: flex;
+.projetos-titulo{
+    list-style: none;
     align-items: center;
-    font-size: 25px;
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+    margin-right: 65px;
+}
+
+.titulo h3 {
+    font-size: 22.49999904px;
+}
+
+.projetos-item {
+    list-style-type: none;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    height: 0px;
+}
+
+.projetos-item2 {
+    list-style-type: none;
+    font-weight: 400;
+    font-size: 24px;
+    margin-left: 600px;
+    line-height: 28px;
+    height: 500px;
+}
+
+.projetos-item a {
+    color: wheat;
+    text-decoration: none;
+}
+
+.projetos-item2 a {
+    color: wheat;
+    text-decoration: none;
 }

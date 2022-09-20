@@ -1,4 +1,5 @@
-Imersão Dev JavaScript Alura
+Imersão Dev JavaScript Alura<br>
+<a href="https://sashirl.github.io/Imersao-Dev-JavaScript/Portfólio/index.html">Portfólio </a><br><br>
 ![imersao](https://user-images.githubusercontent.com/49219844/191163600-c8dd5069-ff00-4608-baab-1ebb74b7a5af.png)
 
 <br><br>
@@ -19,5 +20,3 @@ Imersão Dev JavaScript Alura
 
 <a href="https://sashirl.github.io/Imersao-Dev-JavaScript/Tabela%20de%20Classificação/index.html">Tabela de Classificação</a><br><br>
 ![tabela](https://user-images.githubusercontent.com/49219844/191163682-1ba5391b-46ab-4e00-bf3f-6bc4dcee35f7.png)
-
-<a href="https://sashirl.github.io/Imersao-Dev-JavaScript/Portfólio/index.html">Portfólio </a><br><br>

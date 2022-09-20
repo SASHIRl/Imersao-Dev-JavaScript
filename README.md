@@ -1,6 +1,6 @@
 Imersão Dev JavaScript Alura
 <br><br>
-<a href="https://sashirl.github.io/Imersao-Dev-JavaScript/AluraFlix/index.html">AluraFlix</a><br>
+<a href="https://sashirl.github.io/Imersao-Dev-JavaScript/AluraFlix/index.html">AluraFlix</a><br><br>
 <a href="https://sashirl.github.io/Imersao-Dev-JavaScript/Calcular%20Média/index.html">Calcular Média</a><br>
 <a href="https://sashirl.github.io/Imersao-Dev-JavaScript/Conversor%20de%20Moedas/index.html">Conversor de Moedas</a><br>
 <a href="https://sashirl.github.io/Imersao-Dev-JavaScript/Mentalista/index.html">Mentalista</a><br>
